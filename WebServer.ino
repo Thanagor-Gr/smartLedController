@@ -1,4 +1,4 @@
-/* Made by Thanagor */
+/* Made by Vagelis Simitsis */
 
 #include <SPI.h>
 #include <Ethernet.h>
